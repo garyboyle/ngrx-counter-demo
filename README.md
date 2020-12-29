@@ -1,6 +1,6 @@
-# Ngrx Counter Demo
+# NgRx Counter Demo
 
-Trying out the NGRX Counter Demo application outlined on their website.
+Trying out the NgRx Counter Demo application outlined on their website.
 
 > https://ngrx.io/guide/store
 
